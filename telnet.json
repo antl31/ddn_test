@@ -1,0 +1,1 @@
+{"stdin": "telnet google.com 443", "stdout": "Trying 216.58.215.110...\nConnected to google.com.\nEscape character is '^]'.\n", "stderr": null}
